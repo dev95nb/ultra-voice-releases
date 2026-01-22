@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Ultravoice Updates</title>
+    <link>https://github.com/dev95nb/ultra-voice-releases/releases</link>
+    <description>Most recent updates to Ultravoice</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.2</title>
+      <pubDate>Thu, 22 Jan 2026 23:44:44 +0000</pubDate>
+      <sparkle:version>202601222344</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.2/ultravoice-v1.0.2.zip"
+        length="5123184"
+        type="application/octet-stream"
+        sparkle:edSignature="wycoJJXV2ABSg5GtNglp6OoDWs40TF2nOx7wEMVu9dDXWDA8RUpy5/QEHgdzeE4LVYqeE+u1JcBvGEkRNdR7BQ=="
+      />
+    </item>
+  </channel>
+</rss>
