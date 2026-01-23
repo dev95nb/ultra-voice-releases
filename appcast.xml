@@ -6,16 +6,16 @@
     <description>Most recent updates to Ultravoice</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.6</title>
-      <pubDate>Fri, 23 Jan 2026 04:23:23 +0000</pubDate>
-      <sparkle:version>202601230423</sparkle:version>
-      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <title>Version 1.0.7</title>
+      <pubDate>Fri, 23 Jan 2026 04:27:56 +0000</pubDate>
+      <sparkle:version>202601230427</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.6/DeepLex-v1.0.6.zip"
-        length="2964694"
+        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.7/DeepLex-v1.0.7.zip"
+        length="2964542"
         type="application/octet-stream"
-        sparkle:edSignature="7TjXA0w+m+s175CcS6PQETyeonVGxaV3yATtfS3XWHw3uTIreAwaDZefRUCVzCchuT0XfRg0iLnqf8dfvuSWBg=="
+        sparkle:edSignature="sa+WJJpCtkemPMH9t2zAiH9CHbglqoiBo9yMmioLwQ9KEVZkT9oMCGZp9bvPhg14MztWFJEZuT/eApErLPuLBQ=="
       />
     </item>
   </channel>
