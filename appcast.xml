@@ -6,16 +6,16 @@
     <description>Most recent updates to Ultravoice</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.3</title>
-      <pubDate>Fri, 23 Jan 2026 00:09:48 +0000</pubDate>
-      <sparkle:version>202601230009</sparkle:version>
-      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <title>Version 1.0.4</title>
+      <pubDate>Fri, 23 Jan 2026 00:38:23 +0000</pubDate>
+      <sparkle:version>202601230038</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.3/ultravoice-v1.0.3.zip"
-        length="5123300"
+        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.4/ultravoice-v1.0.4.zip"
+        length="5127381"
         type="application/octet-stream"
-        sparkle:edSignature="Ar1hpk+HcbvwHuGjA9GVVxIAqYMx54x/MlRqpM9bzZ5fHIfNZL9Bd48uB731ikN0XuUI6x5vymtnDSlM0grHCA=="
+        sparkle:edSignature="BHXjFeDjuFINQSnrwuwvQFuCiibWEUAnQUMOpGDTGzO73Zk8fvyAjnNoCJFn80wnX41yNKPELgUSWHBdxu9zDw=="
       />
     </item>
   </channel>
