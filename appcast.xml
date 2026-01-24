@@ -7,15 +7,15 @@
     <language>en</language>
     <item>
       <title>Version 1.0.16</title>
-      <pubDate>Sat, 24 Jan 2026 09:11:08 +0000</pubDate>
-      <sparkle:version>202601240911</sparkle:version>
+      <pubDate>Sat, 24 Jan 2026 09:13:35 +0000</pubDate>
+      <sparkle:version>202601240913</sparkle:version>
       <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.16/DeepLex-v1.0.16.zip"
-        length="4042651"
+        length="4042634"
         type="application/octet-stream"
-        sparkle:edSignature="fwPMlHxPCbNau6BHOz4wer9WopYvAzVVQ18lZ8pcy5OcX7sSpUmFtiwFMNo+hDMxaU0tjIlP1hMjXcUDbsfAAg=="
+        sparkle:edSignature="VV+aorLqtpsaFPrRo9kOPe+88A9rQOOa62I6Q5DRm/4sCno4uxIkPYyr7z1wiHAb1wevj9C4jbZI407DuP3kBw=="
       />
     </item>
   </channel>
