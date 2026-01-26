@@ -6,16 +6,16 @@
     <description>Most recent updates to DeepLex</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.24</title>
-      <pubDate>Mon, 26 Jan 2026 18:05:14 +0000</pubDate>
-      <sparkle:version>202601261805</sparkle:version>
-      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <title>Version 1.0.25</title>
+      <pubDate>Mon, 26 Jan 2026 18:11:43 +0000</pubDate>
+      <sparkle:version>202601261811</sparkle:version>
+      <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.24/DeepLex-v1.0.24.zip"
-        length="5802220"
+        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.25/DeepLex-v1.0.25.zip"
+        length="5802233"
         type="application/octet-stream"
-        sparkle:edSignature="yuzDyjLHCiKJSMikneUNwOj/mj4PCy78wrCf9owoC2g/UB/tt3kwzUheOs5603wkZM/Ca25EPS6wSAZ8A6MrBw=="
+        sparkle:edSignature="q3XtxNXcG4Ic9FqXldcLVknEA8ikxQM5Oc2BJKWZNyeEcfuAqA2GxmzJJqFac7kKxjX/br6yUwkf/eiRHygeCA=="
       />
     </item>
   </channel>
