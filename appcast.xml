@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>DeepLex Updates</title>
+    <title>LangSpeed Updates</title>
     <link>https://github.com/dev95nb/ultra-voice-releases/releases</link>
-    <description>Most recent updates to DeepLex</description>
+    <description>Most recent updates to LangSpeed</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.26</title>
-      <pubDate>Tue, 27 Jan 2026 02:29:38 +0000</pubDate>
-      <sparkle:version>202601270226</sparkle:version>
-      <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+      <title>Version 1.0.27</title>
+      <pubDate>Sun, 01 Feb 2026 10:17:50 +0000</pubDate>
+      <sparkle:version>202602011015</sparkle:version>
+      <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.26/DeepLex-v1.0.26.zip"
-        length="5802129"
+        url="https://github.com/dev95nb/ultra-voice-releases/releases/download/v1.0.27/LangSpeed-v1.0.27.zip"
+        length="6265481"
         type="application/octet-stream"
-        sparkle:edSignature="Nogipj9lwj8NI/7V/UmCWXQwmU3et1lGlnyPB7Xrw7wQOP3OqX/8zPk51OpGCaHiH2CL5g31MjBCmq/WodihAQ=="
+        sparkle:edSignature="Hf6JVU6raocu8ADgo0qcPzEccdnh146GkmvAal0s1dR5jT5iOZ03wP0hHMizASmG0rZZAP6XYtSRipaK8o5dCA=="
       />
     </item>
   </channel>
